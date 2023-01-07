@@ -1,0 +1,1 @@
+NMainWin:10-20-50-16-Change^Password-^Quit`^CleanScreen`^MoveWindow`^MOVEWINDOWBYLOCATION/MWBL-34-35-MainWin#MiddleFillText:4-First,^Please^Type^Your^Old^Password.-31-MainWin#NBtn:5-1-48-4-type^IN^Or^in^To^Input^Your^Old^Password!-33-33-MainWin#MiddleFillText:10-Second,^Let's^Set^Your^New^Password.-31-MainWin#NBtn:11-1-48-4-type^IN^Or^in^To^Set^Your^New^Password!-32-32-MainWin

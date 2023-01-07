@@ -1,0 +1,1 @@
+NMainWin:5-15-50-20-Reset^The^OS-^Quit`^CleanScreen`^MoveWindow`^MOVEWINDOWBYLOCATION/MWBL-35-35-MainWin#MiddleFillText:4-Please^Input^The^Password^Of^The^User-31-MainWin#NBtn:5-1-48-4-Type^IN^Or^in^To^Input^The^Password-33-33-MainWin

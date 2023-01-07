@@ -1,0 +1,1 @@
+NMainWin:3-10-40-12-Security-^Quit`^CleanScreen`^MoveWindow`^MOVEWINDOWBYLOCATION/MWBL-32-33-MainWin#NBtn:3-1-38-4-1.^Change^Password-34-35-MainWin#NBtn:7-1-38-4-2.^Change^Password^Tip-35-36-MainWin

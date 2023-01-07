@@ -1,0 +1,1 @@
+NMainWin:1-15-40-6-About^Desktop-^Quit`^CleanScreen`^MoveWindow`^MoveWindowByLocation/MWBL-30-32-AD#MiddleFillText:4-NC^Desktop^Experience^8-31-AD

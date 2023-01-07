@@ -1,0 +1,1 @@
+NMainWin:1-1-50-25-NWrite-^Quit`^CleanScreen`^MoveWindow`^MOVEWINDOWBYLOCATION/MWBL-36-35-MainWin#NBtn:3-1-24-4-New-32-31-MainWin#NBtn:3-25-24-4-Open-31-32-MainWin#CircleSquare:9-1-48-15-30-MainWin

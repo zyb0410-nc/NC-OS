@@ -1,0 +1,1 @@
+NMainWin:5-25-50-20-Settings-^Quit`^CleanScreen`^MoveWindow`^MOVEWINDOWBYLOCATION/MWBL-32-36-MainWin#NBtn:3-1-48-4-1.^About-31-33-MainWin#NBtn:7-1-48-4-2.^Security-31-33-MainWin#NBtn:11-1-48-4-3.^Recovery-31-33-MainWin#NBtn:15-1-48-4-4.^Users-31-33-MainWin

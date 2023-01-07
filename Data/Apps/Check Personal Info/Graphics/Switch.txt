@@ -1,0 +1,1 @@
+NMainWin:5-10-45-21-Switch^Users-^Quit`^CleanScreen`^MoveWindow`^MOVEWINDOWBYLOCATION/MWBL-32-36-MainWin#MiddleFillText:4-Switch^Users^Below-31-MainWin#CircleSquare:5-1-43-13-33-MainWin#DrawLines:6-2-6-42-_-33-MainWin

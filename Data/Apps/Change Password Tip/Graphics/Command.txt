@@ -1,0 +1,1 @@
+NMainWin:5-20-60-11-Change^Password^Tip-^Quit`^CleanScreen`^MoveWindow`^MOVEWINDOWBYLOCATION/MWBL-35-36-MainWin#MiddleFillText:4-Set^Your^New^Password^Tip,^Now^Your^Password^Tip^Is-31-MainWin#MiddleFillText:5-%HDC.User_password_tip-32-MainWin#NBtn:6-1-58-4-Type^IN^Or^in^To^Set^New^Password^Tip-33-33-MainWin

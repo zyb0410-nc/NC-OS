@@ -1,0 +1,1 @@
+NMainWin:7-25-50-19-New^Username-^Shutdown`^CleanScreen-36-32-Set#MiddleFillText:4-Let's^Set^Your^Username-31-Set#NBtn:6-1-48-6-IN^Or^in^To^Type^Your^New^Username^>>>-34-33-Set#NBtn:12-1-48-6-OK-30-36-Set

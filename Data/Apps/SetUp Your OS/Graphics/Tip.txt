@@ -1,0 +1,1 @@
+NMainWin:7-20-60-19-Set^Password^Tip-^Shutdown`^CleanScreen-36-32-Set#MiddleFillText:4-Let's^Set^Your^Password^Tip-31-Set#NBtn:6-1-58-6-IN^Or^in^To^Type^Your^New^Password^Tip^>>>-34-33-Set#NBtn:12-1-58-6-Install-30-32-Set#MiddleFillText:5-You^can^also^click^Install^button^to^install^straightly!-31-Set

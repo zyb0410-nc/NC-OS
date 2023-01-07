@@ -1,0 +1,1 @@
+NMainWin:3-6-39-26-Desktop^Pattern-^Quit`^CleanScreen`^MoveWindow`^MOVEWINDOWBYLOCATION/MWBL-33-30-MainWin#MiddleFillText:4-Make^The^Desktop^Patterns-31-MainWin#MiddleFillText:5-Desktop^Patterns^Preview-37-MainWin#CircleSquare:6-14-9-13-32-MainWin#MiddleFillText:20-Make^Patterns-31-MainWin#NBtn:21-1-37-4-Type^IN^Or^in^To^Make^Patterns-33-31-MainWin

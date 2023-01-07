@@ -1,0 +1,1 @@
+NMainWin:7-25-50-19-New^Password-^Shutdown`^CleanScreen-36-32-Set#MiddleFillText:4-Second,^Let's^Set^Your^Password-31-Set#NBtn:6-1-48-6-IN^Or^in^To^Type^Your^New^Password^>>>-34-33-Set#NBtn:12-1-48-6-OK-30-36-Set
