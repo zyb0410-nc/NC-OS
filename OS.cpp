@@ -34,8 +34,16 @@ string ColorData[40][100] = {"30"};
 //HeaderCore Basic Functions
 void ReBoot()
 {
-    system("./OS");
-    exit(0);
+	if(Lib.OS_platform == "Windows")
+	{
+		system("OS");
+		Shutdown();
+	}
+	if(Lib.OS_platform == "Linux" || Lib.OS_platform == "macOS")
+	{
+		system("./OS");
+		Shutdown();
+	}
 }
 void Shutdown()
 {
@@ -43,7 +51,14 @@ void Shutdown()
 }
 void CleanScreen()
 {
-    system("clear");
+	if(Lib.OS_platform == "Windows")
+	{
+		system("cls");
+	}
+	if(Lib.OS_platform == "macOS" || Lib.OS_platform == "Linux")
+	{
+		system("clear");
+	}
 }
 void WhiteScreen()
 {
